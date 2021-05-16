@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Detect</string>
+
+    <array name="countries">
+        <item>United Kingdom</item>
+        <item>USA</item>
+        <item>New Zealand</item>
+    </array>
+</resources>

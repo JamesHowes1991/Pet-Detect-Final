@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tag"
+            android:icon="@drawable/ic_tag_dark_shadow"
+            android:title="Tag Details" />
+        <item
+            android:id="@+id/nav_personal"
+            android:icon="@drawable/ic_personal_dark_shadow"
+            android:title="Personal Details" />
+    </group>
+
+    <item android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook_primary"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout_dark_shadow"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

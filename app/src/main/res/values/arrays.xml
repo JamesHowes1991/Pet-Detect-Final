@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mainTips">
+        <item>Your phone will vibrate when an NFC tag is detected.</item>
+        <item>After the vibration, tap the search icon above to display the tag info.</item>
+    </string-array>
+
+    <string-array name="profileTips">
+        <item>To manage personal and tag details, tap the cog icon above.</item>
+        <item>Managing tag details will change what a user will see when your pet is scanned.</item>
+    </string-array>
+
+
+</resources>
